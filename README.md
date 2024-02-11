@@ -37,13 +37,7 @@ Crypto Hunter is a web application designed to help users track cryptocurrency p
 Crypto Hunter is built using a combination of front-end and back-end technologies to deliver a seamless user experience:
 
 - **uAgent**: A Fetch.ai library for building user agent, used for the communication bettween different agents and borrow information from other agents.
-- **React.js**: A JavaScript library for building user interfaces, used for the front-end development of Crypto Hunter.
-- **Node.js**: A JavaScript runtime environment, used for the server-side development of Crypto Hunter.
-- **Express.js**: A web application framework for Node.js, used to build the back-end API for Crypto Hunter.
-- **Axios**: A promise-based HTTP client for making requests to external APIs, used to fetch cryptocurrency data.
-- **Chart.js**: A JavaScript library for creating interactive charts and graphs, used to visualize cryptocurrency price data.
-- **Material-UI**: A popular React UI framework, used to design and style the user interface of Crypto Hunter.
-- **React Router**: A routing library for React, used to handle navigation within the application.
+- **Python**: it is used for implementing in uAgent and writting the logic in our program.
 - **HTML**: The standard markup language for creating web pages, used to structure the content of Crypto Hunter.
 - **CSS**: The style sheet language used to define the presentation of Crypto Hunter's user interface.
 
