@@ -33,6 +33,7 @@ Crypto Hunter is a web application designed to help users track cryptocurrency p
 
 Crypto Hunter is built using a combination of front-end and back-end technologies to deliver a seamless user experience:
 
+- **uAgent**: A Fetch.ai library for building user agent, used for the communication bettween different agents and borrow information from other agents.
 - **React.js**: A JavaScript library for building user interfaces, used for the front-end development of Crypto Hunter.
 - **Node.js**: A JavaScript runtime environment, used for the server-side development of Crypto Hunter.
 - **Express.js**: A web application framework for Node.js, used to build the back-end API for Crypto Hunter.
@@ -50,3 +51,6 @@ Follow these steps to set up Crypto Hunter on your local machine:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/crypto-hunter.git
+
+
+## Developed in Fetch-A-Thon which is organized by MIET and sponcered by Fetch.AI.
