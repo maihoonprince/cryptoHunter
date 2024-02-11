@@ -2,6 +2,9 @@
 
 Crypto Hunter is a web application designed to help users track cryptocurrency prices in real-time. It provides users with the latest information on various cryptocurrencies, allowing them to stay informed about price fluctuations and make informed decisions about their investments.
 
+
+![Screenshot (363)](https://github.com/maihoonprince/cryptoHunter/assets/108923246/eed7dc88-e2b3-44dc-9806-c506650dddbd)
+
 ## Screen Recording :- https://drive.google.com/file/d/1lDxdYsTLnU7dK4aEDsP_iDimXSF0CHu9/view?usp=drive_link.
 
 ## Project Deployed on Netlify :-https://crypto-hunter.netlify.app/
